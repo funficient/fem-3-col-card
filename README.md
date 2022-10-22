@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Source code on GitHub](https://github.com/funficient/fem-3-col-card)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site hosted on GitHub Pages](https://funficient.github.io/fem-3-col-card/)
 
 ## My process
 
